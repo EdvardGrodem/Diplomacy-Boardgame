@@ -1,4 +1,5 @@
 # Diplomacy-Boardgame
+![Diplomacy Map image](https://github.com/EdvardGrodem/Diplomacy-Boardgame/blob/master/DiplomacyMap.jpg?width=50)
 ## Map
 The map is based on the git repository https://github.com/elespike/diplomacy_maps.git
 The map is cut in two parts to raise the land above the oceans.
