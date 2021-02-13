@@ -26,7 +26,7 @@ We engraved the centers in scanning mode, however we recommend engraving only th
   - Label Land - engraved in scanning mode
   - Dividing Lines - cut
   - Seas - cut
-  - Background is cut.
+  - Background - cut.
 
 ## Figures
 The figures are cut from 2 mm plywood, and their base from 3 mm plywood. 12 of each figure to every player for a total of 84 armies and 84 fleets should be plenty.
